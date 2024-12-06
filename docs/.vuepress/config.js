@@ -9,7 +9,7 @@ const sourceRoute = require("./source-route");
 const rustRoute = require("./rust-route");
 const advancedRoute = require("./advanced-route");
 export default defineUserConfig({
-  // base:"/smile-website/",
+  base:"/smile-website/",
   bundler: viteBundler(),
   theme: defaultTheme({
     // logo: '/logo.svg',

@@ -26,9 +26,7 @@ features:
   details: 持续监控性能和异常：包括性能监控、异常监控、白屏监控、卡顿监控、用户行为监控等。
 ---
 
-<!-- ::: slot footer
- MIT Licensed | Copyright © 2022-present [CrayonPig](https://github.com/CrayonPig)
-::: -->
+
 
 ## 目录(持续更新中)
 

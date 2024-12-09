@@ -29,7 +29,7 @@ export default defineUserConfig({
       { text: '源码分析', link: 'https://origin.duanhl.com/' },
       { text: '前端监控系统', link: '/monitor/' },
       // { text: "Rust学习指南", link: "/rust/guide/" },
-      { text: 'GitHub', link: 'https://github.com/HeartlessSmile/smile-vuepress-site' },
+      { text: 'GitHub', link: 'https://github.com/HeartlessSmile/smile-website' },
     ],
     sidebar: {
       ...guideRoute,
@@ -43,7 +43,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: '前端工程化详解',
   description:
-    '前端工程化详解;开箱即用的前端工程化方案;前端代码规范;使用过程中如碰到问题，请到Github进行提问。 https://github.com/HeartlessSmile/smile-vuepress-site',
+    '前端工程化详解;开箱即用的前端工程化方案;前端代码规范;使用过程中如碰到问题，请到Github进行提问。 https://github.com/HeartlessSmile/smile-website',
   head: [
     [
       'link', // 设置 favicon.ico，注意图片放在 public 文件夹下
